@@ -5,8 +5,8 @@ import re
 host = 'pop.yandex.ru'
 port = 995
 buffer_size = 1024
-user_name = 'rikmil0s'
-password = 'rik123'
+user_name = ''
+password = ''
 
 
 def send(sock: socket.socket, command):
